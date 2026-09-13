@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**1remturk/1remturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Irem Turk, B.Sc.
+### Molecular Biologist 
 
-Here are some ideas to get you started:
+[![Focus: Cellular Aging](https://img.shields.io/badge/Focus-Cellular%20Aging%20%26%20Senescence-1e293b?style=for-the-badge&logo=dna&logoColor=white)](https://github.com/)
+[![Focus: Epigenetics](https://img.shields.io/badge/Epigenetics-SIRT1%20%2F%20TET2-334155?style=for-the-badge&logo=molecule&logoColor=white)](https://github.com/)
+[![Methods: In--Silico Structural](https://img.shields.io/badge/In--Silico-Protein%20Docking-475569?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Investigating the intersection of cellular senescence, epigenetic remodeling, and extracellular matrix dynamics through computational biology pipelines.</em>
+</p>
+
+---
+
+</div>
+
