@@ -10,7 +10,7 @@
 [![Bioprospecting](https://img.shields.io/badge/Bioprospecting-9CAF88?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/)
 
 <p align="center">
-  <em>Investigating the intersection of cellular senescence, epigenetic remodeling, stem cells and extracellular matrix dynamics through computational biology pipelines. My main goal is treating cellular senescence with mother nature.</em>
+  <em>Investigating the intersection of cellular senescence, epigenetic remodeling, stem cells and extracellular matrix dynamics through computational biology. My main goal is treating cellular senescence with mother nature.</em>
 </p>
 
 ---
